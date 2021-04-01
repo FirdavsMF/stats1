@@ -1,4 +1,4 @@
-module github.com/FirdavsMF/stats1
+module github.com/FirdavsMF/stats
 
 go 1.16
 
